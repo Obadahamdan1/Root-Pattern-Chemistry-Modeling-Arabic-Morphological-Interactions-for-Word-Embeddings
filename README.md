@@ -124,3 +124,5 @@ Analogy accuracy on the **MGAD** benchmark is reported in `Results_MGAD/`. Each 
 ## License
 
 Released under the [MIT License](LICENSE) — free to use, modify, and distribute with attribution.
+
+Copyright © 2026 Obada Hamdan.
