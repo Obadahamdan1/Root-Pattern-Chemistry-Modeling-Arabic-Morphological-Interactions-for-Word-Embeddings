@@ -1,0 +1,33 @@
+{
+  "name": "pos",
+  "min_freq": 1,
+  "id2token": [
+    "<PAD>",
+    "<UNK>",
+    "noun",
+    "adj",
+    "verb",
+    "punc",
+    "digit",
+    "conj_sub",
+    "pron_rel",
+    "pron_dem",
+    "part_neg",
+    "pron",
+    "adv",
+    "part_verb",
+    "abbrev",
+    "foreign",
+    "noun_quant",
+    "part_focus",
+    "part_interrog",
+    "part_voc",
+    "verb_pseudo",
+    "adv_interrog",
+    "part_fut",
+    "part_det",
+    "adv_rel",
+    "pron_interrog",
+    "interj"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "total_questions": 20001,
+  "oov_skipped": 16058,
+  "answered": 3943,
+  "accuracy_at_1": 0.2549,
+  "accuracy_at_5": 0.5739,
+  "categories": {
+    "test": {
+      "total": 0,
+      "oov": 0,
+      "answered": 0,
+      "acc_at_1": 0.0,
+      "acc_at_5": 0.0
+    },
+    "nom": {
+      "total": 5000,
+      "oov": 3742,
+      "answered": 1258,
+      "acc_at_1": 0.3617,
+      "acc_at_5": 0.7313
+    },
+    "verb": {
+      "total": 15001,
+      "oov": 12316,
+      "answered": 2685,
+      "acc_at_1": 0.2048,
+      "acc_at_5": 0.5002
+    }
+  }
+}

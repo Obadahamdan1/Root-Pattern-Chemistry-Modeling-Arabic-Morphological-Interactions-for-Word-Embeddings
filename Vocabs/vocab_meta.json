@@ -1,0 +1,11 @@
+{
+  "built_at": "2026-03-27T16:51:18.452498+00:00",
+  "affix_sep": "+",
+  "vocab_sizes": {
+    "root_vocab": 3860,
+    "pattern_vocab": 2296,
+    "affix_vocab": 341,
+    "pos_vocab": 27,
+    "char_vocab": 2627
+  }
+}
